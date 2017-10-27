@@ -18,3 +18,4 @@ _book
 *.log
 *.aux
 *.gz
+*.DS_Store
