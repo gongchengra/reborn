@@ -191,7 +191,7 @@ Anyone who wishes to master an activity must first understand its tools and rule
 
 This first section explores seven important concepts—individuality, critical thinking, truth, knowledge, opinion, evidence, and argument— with a chapter devoted to each. Most of these concepts are so familiar that you may be inclined to wonder whether there is any point to examining them. The answer is yes, for three reasons. First, much of what is commonly believed about these concepts is mistaken. Second, who ever examines them carefully is always rewarded with fresh insights. Third, the more thorough your knowledge of these concepts, the more proficient you will be in your thinking.
 
-## CHAPTER 1 Who Are You?
+## Who Are You?
 
 Suppose someone asked, “Who are you?” It would be simple enough to respond with your name. But if the person wanted to know the entire story about who you are, the question would be more difficult to answer. You’d obviously have to give the details of your height, age, and weight. You’d also have to include all your sentiments and preferences, even the secret ones you’ve never shared with anyone—your affection for your loved ones; your desire to please the people you associate with; your dislike of your older sister’s husband; your allegiance to your favorite beverage, brand of clothing, and music.
 
@@ -627,4 +627,479 @@ Here are some other examples you may not have heard about in which the “truth�
 * For hundreds of years historians believed that although the people of Pompeii had been trapped by the eruption of Mount Vesuvius in A.D. 79, the people of neighboring Herculaneum had escaped. Then the discovery of eighty bodies (and the hint of hundreds more) under the volcanic ash revealed that many from Herculaneum had also been trapped.<sup>7</sup>
 * Your grandparents probably learned that there are eight planets in our solar system. Since Pluto was discovered in 1930, your parents and you learned there are nine. Then Joseph L. Brady of the University of California suggested there might be ten.  <sup>8</sup> But more recently Pluto was removed from the list.
 * After morphine was used by doctors for some years as a painkiller, it was found to be addictive. The search began for a nonaddictive substitute. What was found to take its place? Heroin!<sup>9</sup>
+
+### Truth Is Discovered, Not Created
+
+Let’s review what our evaluation has revealed. First, our ideas and beliefs are unavoidably influenced by other people’s, particularly in childhood.  Second, perception and memory are imperfect. Third, our information can be inaccurate or incomplete. Add to this the fact, noted in Chapter 2, that some people’s thinking skills are woefully meager and/or ineffectively used, and the idea that “everyone creates his or her own truth” becomes laughable. We do create something, all right, but it is not truth. It is beliefs, ideas that we accept as true but that could easily be false.
+
+What, then, is the most reasonable view of truth? The truth about something is what is so about it—the facts in their exact arrangement and proportions. Our beliefs and assertions are true when they correspond to that reality and false when they do not.
+
+Did time run out before the basketball player got the shot off? How does gravity work? Who stole your hubcaps? Are there time/space limits to the universe? Who started the argument between you and your neighbor last weekend? Have you been working up to your potential in this course? To look for the truth in such matters is to look for the answer that fits the facts, the correct answer.
+
+Truth is apprehended by discovery, a process that favors the curious and the diligent. Truth does not depend on our acknowledgment of it, nor is it in any way altered by our ignorance or transformed by our wishful thinking. King Tut’s tomb did not spring into existence when archaeologists dug it up; it was there waiting to be discovered. Art forgeries are not genuine when people are fooled and then fake when the deception is revealed. Cigarette smoking is not rendered harmless to our health because we would prefer it to be so.
+
+Much of the confusion about truth arises from complex situations in which the truth is difficult to ascertain or express. Consider a question like Are there really UFOs that are piloted by extraterrestrial beings? Although the question is often hotly debated and people make assertions that purport to express the truth, there is not yet sufficient evidence to say we know the truth about UFOs. However, that doesn’t mean there is no truth about them or that people who affirm their existence and people who deny it are equally correct. It means that whatever the truth is, we do not yet possess it.
+
+Similar difficulty arises from many psychological and philosophical questions—for example: Why are some people heterosexual and others homosexual? Is the cause of criminality genetic or environmental or a combination of the two? Are humans inherently violent? Is there an afterlife?  What constitutes success? The answers to these questions, and to many of the issues you will encounter in the applications in this book, will often be incomplete or tentative. Yet that fact should not shake your conviction that there are truths to be discovered.
+
+When planes crashed into the twin towers of the World Trade Center and the Pentagon on September 11, 2001, killing several thousand people, the event was officially classified as a terrorist attack. But before long, a very different theory was advanced—that individuals in the highest levels of the U.S. government had planned and executed the crashes to provide an excuse for attacking Iraq. This conspiracy theory gained a number of well-known supporters, including movie and television stars and at least one member of Congress, and was disseminated around the world. In France, for example, a book supporting the theory became a best-seller.  The issue became the subject of international debate—in some quarters, people are still divided in their views. But to my knowledge, not a single individual, in this country or abroad, took the position that both views are correct—that is, that each side is entitled to its own truth. If anyone had, he or she would have been attacked by both camps for talking nonsense and trivializing an important issue. When it comes to significant events like 9/11, people want to know the truth, what really happened.
+
+Having the right frame of mind can make your pursuit of the truth less burdensome and give it the sense of adventure that the great thinkers in history experienced. A good way to begin is to keep the following thought in mind: “I know I have limitations and can easily be mistaken. And surely I’ll never find all the answers I’d like to. But I can observe a little more accurately, weigh things a little more thoroughly, and make up my mind a little more carefully. If I do so, I’ll be a little closer to the truth.”
+
+That’s far different from saying, “Everyone makes his or her own truth” or “It all depends on how you look at it.” And it is much more reasonable.
+
+### Understanding Cause and Effect <sup>10</sup> 
+
+Some of the most difficult challenges in discovering truth occur in determining cause-and-effect relationships. Unfortunately, mistakes are common in such matters. One mistake is to see cause-and-effect relationships where there are none. Another is to see only the simple and obvious cause-and-effect relationships and miss the complex or subtle ones. A third is to believe that causation is relevant only to material forces and is unrelated to human affairs. To avoid such confusion, four facts must be understood:
+
+1. One event can precede another without causing it. Some people believe that when one event precedes another, it must be the cause of the other. Most superstition is rooted in this notion. For example, breaking a mirror, crossing paths with a black cat, or walking under a ladder is believed to cause misfortune. You don’t have to be superstitious to make this mistake. You may believe that your professor gave an unannounced quiz today because students were inattentive the day before yesterday, whereas he may have planned it at the beginning of the semester. Or you may believe the stock market fell because a new president took office, when other factors might have prompted the decline. 
+
+The problem with believing that preceding events necessarily cause subsequent events is that such thinking overlooks the possibility of coincidence.  This possibility is the basis of the principle that “correlation does not prove causation.” In order to establish a cause-and-effect relationship, it is necessary to rule out coincidence, or at least to make a persuasive case against it.
+
+2. Not all causation involves force or necessity. The term causation is commonly associated with a physical action affecting a material reality, such as, a lightning bolt striking a house and the house catching fire and burning. Or a flowerpot being accidentally dropped out a window and then falling to the ground and breaking. Or a car speeding, failing to negotiate a curve, careening off the highway, and crashing into a tree. In such cases a scientific principle or law applies (combustion, gravity, inertia), and the effect is inevitable or at least highly predictable. 
+
+That type of causation is valid, but it would be a mistake to think of it as the only type. Causation also occurs in the nonmaterial realities we call human affairs—more specifically, in the processes of emotion and thought. That type of causation has little, if anything, to do with scientific principles or laws, is almost never inevitable, and is often difficult to predict.  If we are to avoid oversimplification, we need to define causation in a way that covers both the scientific realm and the realm of human affairs.  Here is a footnote for this: As its first definition of cause, the Oxford English Dictionary gives “that which produces an effect; that which gives rise to any action, phenomenon, or condition.” The distinction between “produces” and “gives rise to” is what we are referring to here. We will therefore define causation as the phenomenon of one thing influencing the occurrence of another. The influence may be major or minor, direct or indirect, proximate or remote in time or space. It may also be irresistible, as in the examples of combustion, gravity, and inertia mentioned previously; or resistible, as in following parental teaching or the example of one’s peers. In the latter case, and in other matters involving ideas, the influence (cause) does not force the effect to occur but instead invites, encourages, or inspires it. Consider these examples:
+
+* The idea that intelligence is genetically determined led early twentiethcentury educators to conclude that thinking cannot be taught, and thus to emphasize rote learning and expand vocational curriculums.
+* The idea that people are naturally good, and therefore not personally responsible for their bad deeds, has shifted blame to parents, teachers, and society, and caused judges to treat criminals more leniently.
+* The idea that one race or ethnic group is superior to another has led to military campaigns against neighboring countries, discriminatory laws, slavery, and genocide.
+* The idea that “no one over thirty can be trusted,” which was popular in the United States during the 1960s and 1970s, led many young people to scorn both the advice of their parents and teachers and the accumulated wisdom of the past.
+* The idea that feelings are a reliable guide to behavior has led many people to set aside restraint and follow their impulses. This change has arguably led to an increase in incivility, road rage, and spouse abuse, among other social problems.
+* The idea that self-esteem is prerequisite to success changed the traditional idea of self-improvement, inspired hundreds of books focused on selfacceptance, and led educators to more indulgent views of homework, grading, and discipline.
+
+In each of these examples, one idea influenced the occurrence of an action or belief and, in that sense, caused it. Columnist George Will no doubt had this view of causation in mind when he encountered the claim that “no one has ever dropped dead from viewing ‘Natural Born Killers,’ or listening to gangster rap records.” Will responded, “No one ever dropped dead reading ‘Der Sturmer,’ the Nazi anti-Semitic newspaper, but the culture it served caused six million Jews to drop dead.”<sup>11</sup>
+
+3. There is a wild card in human affairs—free will. So far we have noted that causation occurs through force or necessity in material events, but through influence in nonmaterial events—that is, in human affairs. Also, that in human affairs, effects are to some extent predictable but much less so than in material events. Now we need to consider why they are less predictable. The answer is because people possess free will—that is, the capacity to respond in ways that oppose even the strongest influences. Free will is itself a causative factor, and one that can trump all others. This explains why some people who grow up in the worst of circumstances—for example, in dysfunctional, abusive families or in crime-ridden neighborhoods in which the main sources of income are drug dealing and prostitution—resist all the negative influences and become decent, hardworking, and law-abiding. (It can also explain why some people who are more fortunate economically and socially fall short of those ideals.)
+
+It has been rightly said that people can seldom choose the circumstances life places them in, but they can always choose their responses to those circumstances because they possess free will. In any investigation of causes and effects in human affairs, the factor of free will must be considered. However, possessing free will is no guarantee that we will apply it. In fact, one factor makes such application difficult. That factor is habit.
+
+Habit inclines smokers to continue smoking, liars to continue lying, selfish people to go on being selfish, and countless people to unthinkingly embrace the latest fashion. When leading designers say “hemlines should be raised,” hordes of women comply. When oversized beltless denim jeans are in vogue, hordes of young men waddle down the street, the tops of their pants at the middle of their hips and the crotches of their pants touching their knees. When iconic athletes shave their heads, legions of fans shave theirs. Resisting the force of habit is always possible but never easy.
+
+The most difficult habits to break are those that accrue incrementally over time. Consider the acceptance of increasing violence and sex on TV and in films. In the 1950s, not much violence and sex were shown onscreen, and what was shown was tame. Then viewers were given glimpses of blood and gore and brief peeks at naked flesh. Year by year, the number of such scenes increased and the camera drew in a little closer and lingered a little longer over them. Over time, one thematic taboo after another was broken. Eventually violence and sexuality were joined, and themes of rape, child molestation, and even cannibalism were introduced. More recently, the industry crafted a new vehicle for assaulting the senses—the forensics program, which depicts rape-murders as they happen, then presents every gory detail of the autopsies in extreme close-up, accompanied by frequent, graphic flashbacks to refresh in viewers’ minds the shocking details of the crimes.
+
+At first the violent and sexual content provoked protests. In time, however, as sensational images became familiar, people formed the habit of accepting them, and the protests diminished. (In time the habit grew so strong that anyone who objected to graphic sex and violence was considered odd.) What happened in this case was not that people lost their freedom or ability to protest, but instead that habit took away their inclination to protest.
+
+4. Causation is often complex. When a small pebble is dropped into a serene pool of water, it causes ripples in every direction, and those ripples can affect even distant waters. NASA researchers have found a similar process at work in the atmosphere: tiny particles in the air called aerosols can have a rippling effect on the climate thousands of miles away from their source region.
+
+Effects in human affairs can also be complex. In an effort to cut costs, the owner of a chemical plant may dispose of chemicals in a nearby stream that flows into a river. This action may result in effects he did not intend, including the pollution of the river, the killing of fish, and even the contracting of cancer by people living far from his plant. Those effects will be no less real because he did not intend them.
+
+A woman in the early stages of influenza, unaware that she is ill, may sneeze while on a crowded airplane and infect dozens of her fellow passengers. As a result, they may lose time at work; some may have to be hospitalized; those with compromised immune systems could conceivably die. Given her lack of knowledge of her condition, no reasonable person would consider her culpable (morally responsible) for the effects of her sneeze, but there would still be no doubt that she caused them.
+
+A car is driving on the interstate at night. In rapid succession, a deer jumps out and, the driver slams on his brakes but still hits and kills the deer, the car traveling closely behind slams into his car, and five other cars do likewise, each crashing into the car in front. As a result of this chain reaction, the drivers and passengers suffer a variety of injuries— minor in the case of those wearing seat belts, major in others. The task of identifying the causative factors requires careful attention to the details. The initial cause was the deer’s crossing the road at an unfortunate time, but that is not the only cause. The first driver caused the deer’s demise. Each of the other drivers caused the damage to the front end of his or her car and back end of the car in front.* And the passengers who did not fasten their seat belts caused their injuries to be more severe than those of other drivers and passengers.
+
+These examples contain a valuable lesson about the need for care in investigating causes and effects. But this lesson will be even clearer if we examine a case in the way investigation usually proceeds—backward in time from the latest effect to the earliest causative factor; that is, to the “root” cause.
+
+For example, it has been clear for some time that the number of people of Middle Eastern origin living in Europe has increased so dramatically that before long, according to some observers, Europe might well be called “Eurabia.” What caused this change? Analysts found that for decades European companies, with their governments’ blessing, have been inviting foreigners to work in their countries, and these workers brought their families, formed their own enclaves, built their own mosques and churches, and “planted” their own ethnic cultures. The next question is what caused the governments to approve this influx of workers? The answer is that the native population of European countries had declined to a point near or below “replacement level” and there were too few native-born workers to fill the available jobs and thus fund older people’s pensions and health care services.
+
+What caused the population decline? The availability of effective birth control techniques in the 1960s and 1970s and the choice of more and more families to employ those techniques. What caused so many families to limit the number of their children? One factor was the century-long population movement from rural areas to cities, where children are an economic burden rather than an asset. Others were the growing emphasis on self-fulfillment and the corresponding tendency to regard child rearing as self-stifling.
+
+As even this brief analysis of causes and effects suggests, facile responses to complex issues—in this case, “Middle Easterners are trying to take over Europe” or “The Crusades are here again, in reverse”—are not only unhelpful but unfair. The following cautions will help you avoid oversimplification in your analyses:
+
+* Remember that events seldom, if ever, “just happen.” They occur as the result of specific influences, and these influences may be major or minor, direct or indirect, proximate or remote in time or space; also irresistible (forced or necessary) or resistible (invited, encouraged, or inspired).
+* Remember that free will is a powerful causative factor in human affairs, and it is often intertwined with other causes. In the case of the changes in European society, the movement of people from farm to city and the use of birth control were individual choices, but the greater availability of jobs in the cities (an economic reality) and birth control technology (a scientific development) were not. 
+* Be aware that in a chain of events, an effect often becomes a cause. For example, the decline in population in Europe caused the importation of foreign workers, which in turn caused a change in the ratio of native-born to foreign citizens, which may in time alter the continent’s dominant values and attitudes.
+* Be aware that, in dealing with human affairs, outcomes can be unpredictable. Therefore, in determining causes, you may have to settle for probability rather than certainty (as you would in matters that lend themselves to scientific measurement). In other words, you might conclude that something is more likely than not or, when the probability is very high, substantially more likely to be the cause. Either of these conclusions has significantly more force than mere possibility, but it falls short of certainty. The difference is roughly analogous to the difference in legal standards of judgment: in civil cases, the standard is “a preponderance of the evidence” or “clear and convincing evidence,” whereas in criminal cases it is the more demanding standard of “beyond a reasonable doubt.”
+
+In searching for truth, when you encounter possible cause-and-effect relationships, keep these cautions in mind.
+
+### Applications
+
+1. Think of a recent situation in which someone referred inappropriately to “my truth.” Write two or three paragraphs, in your own words, explaining to that person what you learned in this chapter.
+
+2. A central question in sociology is How does society evolve? Three wellknown individuals gave very different answers. Auguste Comte (1798–1857) suggested that it involved three stages: religious, metaphysical, and scientific. Herbert Spencer (1820–1903) claimed that it followed Darwinian “natural selection,” in which only the fittest survive. Karl Marx (1818–1883) argued that it occurred through class conflict as a result of economic exploitation. Would belief in relativism—the idea that everyone creates his or her own truth—increase or decrease someone’s motivation to analyze these three viewpoints and pursue the question of society’s evolution? Explain your response.
+
+3. Read each of the following passages, decide how reasonable it is, and explain your thinking. 
+    a. People who believe that “everyone creates his or her own truth” should never argue with anyone about anything. If they do, they are being inconsistent. 
+    b. Motivation to do anything depends on the belief that it has not yet been done. Everyone who loses something precious, say a diamond ring, will search diligently and even desperately until it is found. But only a fool would continue searching for it after it was found. It is no different with other kinds of searches, such as the search for truth. Once we think we have it, we stop looking.
+
+4. For years grade school students faced this question on their science tests: “True or False—The famous rings of the planet Saturn are composed of solid material.” If the students marked “true,” they lost credit, because the “truth” was that Saturn’s rings were composed of gas or dust. Then, in 1973, radar probes revealed that all those wrong answers had been right. Saturn’s rings are, in fact, composed of solid matter.12 This confusing case seems to suggest that the truth changed. Did it really? Explain.
+
+5. The scene is a campus security office, where two students are being questioned. A few minutes earlier, they were engaged in a fistfight in the cafeteria. The campus police ask them again and again how the fight started. The stories conflict. Because each student seems genuinely convinced that the other one was the aggressor and there were no witnesses, the campus police have no hope of discovering the truth. But is there a truth to discover? Or are there two truths, one for each student’s story? What light does the chapter shed on these questions?
+
+6. A strange phenomenon that affects a tiny number of the world’s inhabitants has interested psychologists for some time. It occurs during what Norwegians call the “murky time,” the two months each year during which areas above the Arctic Circle experience almost unrelieved darkness. The effects on people have been discovered to be unfortunate, even dangerous. At worst, people experience severe tenseness, restlessness, fear, a preoccupation with thoughts of death and even suicide. At best, they experience an inability to concentrate, fatigue, a lack of enthusiasm for anything, suspicion, and jealousy. Part of the cause is seen as lack of sleep. Accustomed to day and night, people become confused by constant darkness.<sup>13</sup> This phenomenon poses an interesting test of truth. Would it be proper to say the phenomenon was true before it was recognized and acknowledged by psychologists? Or did it become true only when they became aware of it? And what of your relationship to the phenomenon? Before you became aware of it for the first time, whether reading it here or elsewhere, it was not “true to you.” But did that make it any less true? Explain in light of this chapter.
+
+7. Evaluate the following dialogues in light of what you learned in this chapter. If you lack sufficient knowledge to judge the issue, do some research. 
+    a. 
+        Martha: I don’t care what the courts say about abortion—I’m convinced it’s murder because the fetus is a human being. 
+        Marian: If you want to believe that, fine. Just don’t impose your beliefs on others and prevent them from exercising their rights.
+        Martha: You don’t seem to understand. It’s not just a fetus in my uterus that’s human but the fetus in the uterus of every pregnant woman.
+        Marian: Nonsense. You have no right to classify what exists in someone else’s uterus. That’s her business. You should mind your own business.
+    b. 
+        Barbi: Television shows about suicide should not be aired.
+        Ken: Why?
+        Barbi: Because they cause people to commit suicide.
+        Ken: That’s ridiculous. How can a drama or documentary that shows the tragedy of suicide cause people to commit suicide?
+        Barbi: I don’t know how it happens. Maybe some people have thoughts of suicide already and the show reinforces them. Or maybe they focus on the act of suicide and lose sight of the tragedy. All I know is that attempted suicides increase after the airing of such shows.
+    c.
+        Mabel: I notice that when you get a newspaper you immediately turn to the astrology column. Do you really believe that nonsense?
+        Alphonse: It’s not nonsense. The planets exercise a powerful influence on our lives; their positions in the heavens at the time of our birth can shape our destiny.
+        Mabel: I can’t believe I’m hearing such slop from a science major.
+        Alphonse: What you fail to understand is that astrology is science, one of the most ancient sciences at that.
+    d.
+        Jake: What did you think of the chapter “What Is Truth?”
+        Rocky: It’s stupid.
+        Jake: What do you mean?
+        Rocky: It contradicts Chapter 1.
+        Jake: I didn’t get that impression. Where’s the contradiction?
+        Rocky: In Chapter 1 the author says that we should strive to be individuals and think for ourselves. Now he says that his idea about truth is OK and ours isn’t and that we should follow his. That’s a contradiction.
+
+8.Group discussion exercise: How many times have you been certain something was true, only to find out later that it was not? Discuss those experiences with two or three classmates. Be prepared to share the most dramatic and interesting experiences with the rest of the class.
+
+### A Difference of Opinion
+
+The following passage summarizes an important difference of opinion. After reading the statement, use the library and/or the Internet and find what knowledgeable people have said about the issue. Be sure to cover the entire range of views. Then assess the strengths and weaknesses of each. If you conclude that one view is entirely correct and the others are mistaken, explain how you reached that conclusion. If, as is more likely, you find that one view is more insightful than the others but that they all make some valid points, construct a view of your own that combines the insights from all views and explain why that view is the most reasonable of all. Present your response in a composition or an oral report, as your instructor specifies.
+
+> Who is responsible for the fiscal crisis of 2008? This issue continues to be central to overcoming the consequences of the crisis and to ensuring that it does not recur. Commentators are divided on the cause. Some claim it is was the policies of George W. Bush’s administration; others, the policies of the Clinton administration; others, the greed of Wall Street executives. Many point, instead, to congressional pressure on banks, during the 1990s, to give loans to people who could not afford to repay them. Still others say the crisis originated during the Carter administration, specifically in the Community Reinvestment Act of 1977.
+
+Begin your analysis by conducting a Google search using the terms “Community Reinvestment Act,” “causes financial crisis,” and “subprime mortgage crisis.”
+
+## What Does It Mean to Know?
+
+Sally looks up from her composition and asks her roommates, “How do you spell embarrass?”
+
+Nancy says, “I’m not sure. I think it has a double r and a double s. Oh, I really don’t know.”
+
+Marie smiles her smug smile. “I guess spelling isn’t your cup of tea, Nancy. The correct spelling is e-m-b-a-r-a-s-s. Only one r.”
+
+By this time Sally has already opened her dictionary. “Might as well check to be sure,” she says. “Let’s see, embargo, embark . . . here it is, embarrass. Double r and double s. You were right, Nancy.”
+
+Let’s consider what happened more closely. Marie knew the answer, but she was wrong. Nancy didn’t know, but she was right. Confusing. What kind of thing can this knowing be? When you’re doing it, you’re not doing it. And when you aren’t, you are.
+
+Fortunately, it only appears to be that way. The confusion arises because the feelings that accompany knowing can be present when we don’t know. Marie had those feelings. She no longer wondered or experienced any confusion; she was sure of the answer. Yet she was mistaken.
+
+### Requirements of Knowing
+
+Nancy was in a better position than Marie because she answered correctly. Yet she didn’t know, for knowing involves more than having the right answer. It also involves the realization that you have it.
+
+The issue, of course, may not always be as simple as the spelling of a word. It may require understanding numerous details or complex principles or steps in a process. (It may also involve a skill—knowing how to do something. But that is a slightly different use of the word than concerns us here.)
+
+Knowing usually implies something else, too—the ability to express what is known and how we came to know it. This, however, is not always so. We may not be able to express our knowledge in words. The best we may be able to say is “I just know, that’s all” or “I know because I know.” Yet these replies are feeble and hardly satisfy those who wish to verify our knowledge or acquire it.
+
+### Testing Your Own Knowledge
+
+Following are some items of “common knowledge.” Determine how many you already know, and then decide, if possible, how you came to know each. Complete this informal inventory before continuing with the chapter.
+
+1. Women are nurturing but men are not.
+2. African Americans had little or no part in settling the American West.
+3. Expressing anger has the effect of reducing it and making us feel better.
+4. The Puritans were “prim, proper, and prudish prigs.”
+5. Before Columbus arrived in the New World, Native Americans lived in peace with one another and in respectful harmony with the environment.
+6. Alfred Kinsey’s research on human sexuality is scrupulously scholarly and objective.
+7. Employers import unskilled labor from other countries to save money.
+8. The practice of slavery originated in colonial America.
+
+It would be surprising if you did not think you knew most of these items. After all, many writers have written about them, and they are widely accepted as conventional wisdom. But let’s look a little more closely at each of them.
+
+1. Barbara Risman became curious about this idea and decided to study it further. Her findings challenged the conventional wisdom. Apparently, men who are responsible for caring for children or elderly parents display the same nurturing traits usually associated with women. She concluded that these traits are as dependent on one’s role in life as on one’s sex.<sup>1</sup>
+2. The facts contradict what is known. For example, 25 percent of the cowboys in Texas cattle drives were African American, as were 60 percent of original settlers of Los Angeles.<sup>2</sup> The reason these facts are not more widely known is probably because of scholarly omission of information about African Americans from the history books.
+3. Conventional wisdom again is wrong. After reviewing the evidence about anger, Carol Tavris concludes, “The psychological rationales for ventilating anger do not stand up under experimental scrutiny. The weight of the evidence indicates precisely the opposite: expressing anger makes you angrier, solidifies an angry attitude, and establishes a hostile habit. If you keep quiet about momentary irritations and distract yourself with pleasant activity until your fury simmers down, chances are you will feel better, and feel better faster, than if you let yourself go in a shouting match.”<sup>3</sup>
+4. Although the Puritans did hold that sex is rightly reserved for marriage, they did not hesitate to talk openly about the subject and were not prudish within marriage. The problem seems to be that people confuse the Puritans with the Victorians.<sup>4</sup>
+5. This is pure myth. Few tribes were completely peaceful, and many not only were warlike but slaughtered women and children and tortured their captives. Some tribes also offered human sacrifices, murdered the elderly, and practiced cannibalism. As to their alleged harmonious respect for nature, many tribes deforested the land and wantonly killed whole herds of animals.<sup>5</sup>
+6. Alfred Kinsey’s work on human sexuality has been regarded as objective, scholarly, and definitive for more than half a century. In fact, it has become a foundation of psychotherapy, education, and even religion. Amazingly, in all that time no one read it critically until Judith A. Reisman and Edward W. Eichel did so. They document that Kinsey approached his work with a firm bias that significantly influenced his conclusions. He sought to establish that exclusive heterosexuality is abnormal and results merely from conditioning and inhibition; that sex between a man and a woman is no more natural than sex between two men, two women, a man and a child, or a man and an animal; and that bisexuality should be considered the norm for human sexuality. When Abraham Maslow demonstrated to Kinsey that his approach was unscientific, Kinsey simply ignored him. Kinsey went on to assert that incest can be satisfying and enriching and that children are upset by adult sexual advances solely because of the prudishness of parents and legal authorities. The authors also allege that in his research Kinsey employed a group of nine sex offenders to manually and orally stimulate to orgasm several hundred infants and children.<sup>6</sup>
+7. The fact is that in many cases imported labor costs more money than domestic labor when the cost of transporting the workers is included in the calculation. For example, Indian workers were chosen over local Africans to build a railroad in East Africa. Similarly, Chinese workers were chosen over colonial Malayans. In both cases, the total cost of using imported workers was greater, but the cost per unit of work was lower because the imported workers produced more. In these and many other cases, the principal reason for choosing foreign over domestic labor is that the foreign workers are “more diligent, reliable, skilled, or careful.”<sup>7</sup>
+8. This notion is also mistaken. Slavery is thousands of years old, predating Islam, Buddhism, and Christianity. It was practiced by the Venetians, Greeks, Jews, Chinese, Indians, and Egyptians, among others. Native American tribes enslaved one another long before the time of Columbus. The distinction enjoyed by the Americas is not having introduced slavery, but having abolished it. Slavery was abolished in the Western Hemisphere many decades before it was in Africa, Asia, and the Middle East.<sup>8</sup>
+
+The more of the eight items you “knew,” and the surer you were of your “knowledge,” the more troubling you are likely to find these facts. You may, in fact, be thinking, “Wait a minute, there must be some mistake. Who are these people Ruggiero is quoting? Are they genuine scholars? I’m skeptical of the whole lot of them.” This reaction is understandable, because familiarity with a false statement can make it seem true. Yet it is a reaction critical thinkers keep on a short leash. The ancient Greek philosopher Epictetus’s warning is relevant: “Get rid of self-conceit. For it is impossible for anyone to begin to learn that which he thinks he already knows.”
+
+Are you still troubled by our debunking of the conventional wisdom? Then consider that, for centuries, conventional wisdom also held that heavier objects fall more rapidly than lighter ones and that the heart and not the brain is the seat of consciousness.<sup>9</sup> It also rejected the idea that machines could ever fly, enable people to communicate with one another across town, or create pictures of the interior of the human body. That such “wisdom” is really shortsightedness is plain to us only because some individuals were willing to ask, Is it possible that what I and other people think we know isn’t really so? This little question is one of the most useful tools in critical thinking.
+
+### How We Come to Know
+
+We can achieve knowledge either actively or passively. We achieve it actively by direct experience, by testing and proving an idea (as in a scientific experiment), or by reasoning. When we do it by reasoning, we analyze a problem, consider all the facts and possible interpretations, and draw the logical conclusion.
+
+We achieve knowledge passively by being told something by someone else. Most of the learning that takes place in the classroom and the kind that happens when we watch TV news reports or read newspapers or magazines is passive. Conditioned as we are to passive learning, it’s not surprising that we depend on it in our everyday communication with friends and co-workers.
+
+Unfortunately, passive learning has a serious defect. It makes us tend to accept uncritically what we are told even when what we are told is little more than hearsay and rumor.
+
+Did you ever play the game Rumor (or Telephone)? It begins when one person writes down a message but doesn’t show it to anyone. Then the person whispers it, word for word, to another person. That person, in turn, whispers it to still another, and so on, through all the people playing the game. The last person writes down the message word for word as he or she hears it. Then the two written statements are compared. Typically, the original message has changed, often dramatically, in passing from person to person.
+
+That’s what happens in daily life. No two words have precisely the same shades of meaning. Therefore, the simple fact that people repeat a story in their own words rather than in exact quotation changes the story. Then, too, most people listen imperfectly. And many enjoy adding their own creative touch to a story, trying to improve on it by stamping it with their own personal style. This tendency may be conscious or unconscious. Yet the effect is the same in either case—those who hear it think they know.
+
+This process is not limited to everyday exchanges among people. It is also found among scholars and authors: “A statement of opinion by one writer may be re-stated as a fact by another, who may in turn be quoted as an authority by yet another; and this process may continue indefinitely, unless it occurs to someone to question the facts on which the original writer based his opinion or to challenge the interpretation he placed upon those facts.”<sup>10</sup>
+
+### Why Knowing Is Difficult
+
+One reason why knowing is difficult is that some long unanswered questions continue to resist solution, questions like What causes cancer? What approach to education is best for children? and How can we prevent crime without compromising individual rights?
+
+Another reason is that everyday situations arise for which there are no precedents. When the brain procedure known as frontal lobotomy was developed to calm raging violence in people, it raised the question of the morality of a cure that robbed the patient of human sensibilities. When the heart transplant and the artificial heart became realities, the issue of which patients should be given priority was created, as well as the question of how donors were to be obtained. When smoking was definitely determined to be a causative factor in numerous fatal diseases, we were forced to examine the wisdom of allowing cigarette commercials to mislead TV viewers and entice them into harming themselves. More recently, when smoking was shown to harm the nonsmoker as well as the smoker, a debate arose concerning the rights of smokers and nonsmokers in public places.
+
+Still another reason why knowing is difficult is that, as one generation succeeds another, knowledge is often forgotten or unwisely rejected. For example, the ancient Greeks knew that whales have lungs instead of gills and therefore are mammals. Later, however, the Romans regarded whales as fish, a false notion that persisted in Western minds until the seventeenth century. In that century one man suggested that whales are really mammals, another later established it as fact, and the West rediscovered an item of knowledge.<sup>11</sup>
+
+In our time the ideas of “sin” and “guilt” have come to be regarded as useless and even harmful holdovers from Victorian times. The “new morality” urged people to put aside such old-fashioned notions as obstacles to happiness and fulfillment. Then Karl Menninger, one of America’s leading psychiatrists, wrote a book called Whatever Became of Sin? in which he argues that the notions of “sin” and “guilt” are good and necessary in civilized society.<sup>12</sup> He says, in other words, that our age rejected those concepts too quickly and quite unwisely.
+
+Knowledge is often thought of as dead matter stored on dusty shelves in dull libraries. Unfortunately, the hushed atmosphere of a library can suggest a funeral chapel or a cemetery. But the appearance is deceiving. The ideas on those shelves are very much alive—and often fighting furiously with one another. Consider the following cases.
+
+The idea that Columbus was the first person from Europe, Africa, or Asia to land on the shores of North or South America hangs on tenaciously. The opposing idea challenges this again and again. (The evidence against the Columbus theory continues to mount: the discovery of ancient Japanese pottery in Ecuador, traces of visits by seafarers from Sidon in 541 B.C. as well as by the Greeks and Hebrews in A.D. 200 and by the Vikings in A.D. 874.<sup>13</sup> The most recent evidence suggests that the Chinese may have discovered America by 2500 B.C.)<sup>14</sup>
+
+The idea that a history of slavery and deprivation has caused African Americans to have less self-esteem than whites was well established. Then it was challenged by two University of Connecticut sociologists, Jerold Heiss and Susan Owens. Their studies indicate that the self-esteem of middle-class African Americans is almost identical to that of middleclass whites and that the self-esteem of lower-class African Americans is higher than that of lower-class whites.<sup>15</sup>
+
+The notion that when the youngest child leaves home, middle-aged parents, especially mothers, become deeply depressed and feel that life is over for them has many believers. Yet at least one study attacks that notion. It shows that many, perhaps most, parents are not depressed at all; rather, they look forward to a simpler, less demanding, life.<sup>16</sup>
+
+Similarly, until recently, most scientists accepted that senility is a result of the physical deterioration of the brain and is both progressive and irreversible. Then experimenters in an Alabama veterans’ hospital found that in many cases the symptoms of senility—confusion, disorientation, and withdrawal from reality—can be halted and even reversed by “a simple program of keeping the aged constantly in touch with the surrounding environment.”<sup>17</sup>
+
+Books and articles referring to athletes’ “second wind” abound. Yet Nyles Humphrey and Robert Ruhling of the University of Utah have presented evidence that there really is no second wind and that the sensation experienced by many athletes is merely psychological.<sup>18</sup>
+
+### A Cautionary Tale
+
+Even authorities who have the most sophisticated measurement tools at their disposal fail to achieve certainty. Consider, for example, the challenge to anthropologists posed by the Tasaday tribe. When discovered on the Philippine island of Mindanao in the late 1960s, the Tasaday were living a Stone Age existence—inhabiting caves in the deep jungle, ignorant of agriculture, subsisting by hunting and gathering. Manuel Elizaldo, an associate of then dictator Ferdinand Marcos, quickly became their protector, mentor, and go-between with a fascinated world. A number of anthropologists and other experts visited the tribe and studied their artifacts, language, and social structure. Except for a few skeptics, most scholars judged them to be authentic Stone Age people. Prestigious publications like National Geographic wrote about the Tasaday and marveled at the fact that they were such an innocent, gentle people with no words in their language for “weapon,” “war,” or “hostility.”
+
+In 1986, after the Marcos regime collapsed, a Swiss journalist visited the Tasaday and found them living in houses. They reportedly admitted to him that their story was an elaborate hoax perpetrated by Elizaldo. He supposedly told them when to go to the caves and put on the Stone Age act for visiting journalists and scholars. Elizaldo has denied the charge and has had the continuing support of many scientists. Douglas Yen, an ethnobiologist and early Tasaday researcher, originally sought to link the group to neighboring farming tribes, but he now believes the Stone Age circumstances were genuine. (He cites a case in which little children were shown cultivated rice and displayed amazement.) Carol Molony, a linguist and another early Tasaday scholar, is also a believer. She argues that the tribe, children as well as adults, would have to have been superb actors to eliminate all agricultural metaphors from their speech. A local priest and former skeptic, Fr. Sean McDonagh, also believes the Tasaday to be authentic and says neighboring tribes do too.
+
+One continuing element of dispute concerns the authenticity of Tasaday tools. Zeus Salazar, a Philippine anthropologist, maintains that the loose straps attaching stones to handles suggest a poor attempt to fake Stone Age methods. Yet archaeologist Ian Glover says such looseness has been noted in authentic Stone Age implements. The Tasaday’s own statements have not simplified the puzzle. They told NBC and Philippine television that their original story was true and then told ABC and British television that it was false.
+
+How likely is it that any outside observer knows the real story about the Tasaday, in all its complexity? Not very. That is why, in this and similarly difficult cases, responsible people do not claim to know what happened. Instead, they speak of what it is most plausible to believe happened, in light of the evidence. That is how anthropologist Thomas Headland, who exhaustively researched the Tasaday case, speaks of it. He suggests that there was probably no hoax but that there were gross exaggerations and false media reports, as well as some self-fulfilling expectations by anthropologists. It is likely, he believes, that the Tasaday were once members of the neighboring farming tribes who fled several hundred years ago (perhaps to avoid slave traders) and who hid in the forest for so many generations that they not only regressed to a Stone Age culture but lost all memory of their more advanced state.<sup>19</sup>
+
+### Is Faith a Form of Knowledge?
+
+Some readers, particularly religious conservatives, may wonder whether what has been said thus far about knowledge represents a denunciation of faith. Their concern is understandable, given the number of intellectuals in this and previous centuries who have dismissed religion as mere superstition. But no such denunciation is intended here. The relationship between knowledge and religious faith is both complex and subtle. The term religious faith by definition suggests belief in something that cannot be proved. This is not to say that what is believed is not true, but only that its truth cannot be demonstrated conclusively. Jews (and many others) believe that God gave Moses the Ten Commandments, Muslims believe that Muhammad is Allah’s prophet, and Christians believe that Jesus Christ is the Son of God. Science is simply not applicable to these beliefs. Philosophy can offer complementary arguments for or against them but cannot prove or disprove them.
+
+Mortimer Adler, a distinguished philosopher, offers a very useful insight into the nature of faith:
+
+> What is usually called a “leap of faith” is needed to carry anyone across the chasm [between philosophy and religion]. But the leap of faith is usually misunderstood as being a progress from having insufficient reasons for affirming God’s existence to a state of greater certitude in that affirmation. That is not the case. The leap of faith consists in going from the conclusion of a merely philosophical theology to a religious belief in a God that has revealed himself as a loving, just and merciful Creator of the cosmos, a God to be loved, worshiped and prayed to.<sup>20</sup>
+
+A related concern of religious conservatives may be whether they are compromising their faith by embracing the philosophical position expressed in this chapter. Each of us must, of course, answer this question for himself or herself. Before deciding, however, we would do well to consider the argument advanced by Mark Noll, a leading evangelical scholar. In spurning philosophical investigation, he says, evangelicals not only have removed themselves from the discussion of issues vital to all people but also have lost touch with “the habits of mind that for nearly two centuries defined the evangelical experience in America.” In his view, that has proved to be a tragic mistake.<sup>21</sup>
+
+### Obstacles to Knowledge
+
+Before we discuss how knowledge is best sought, let’s consider two habits that impede knowledge: assuming and guessing. Assuming is taking something for granted—that is, arbitrarily accepting as true something that has not been proved or that may reasonably be disputed. Because assuming is generally an unconscious activity, we are often unaware of our assumptions and their influence on us.* The main negative effect of unrecognized assumptions is that they stifle the curiosity that leads to knowledge.
+
+Many people, for example, never speculate about the daily life of fish. They may occasionally stop at the pet store in the mall and stare at the tank of tropical fish. But they may never display curiosity about the social roles and relationships of fish communities because they assume fish have no such roles or relationships. Yet the fact is, in the words of underwater sociologist C. Lavett Smith, “There are fish equivalents of barbers, policemen, and farmers. Some are always on the move and others are sedentary. Some work at night and some by day.”<sup>22</sup>
+
+Guessing is offering a judgment on a hunch or taking a chance on an answer without any confidence that it is correct. It’s a common, everyday activity. For students who don’t study for exams, it’s a last-ditch survival technique. For an example of guessing, though, let’s take a more pleasant subject—drinking beer. Some time ago a professor of behavioral science at a California college conducted a beer taste test among his students. The issue was whether they could really tell a good beer from a bad one or their favorite from others. Many students likely would guess they could, and a number of participants in the test actually guessed they could tell. However, the test showed that when the samples were not labeled, not one student could identify a single brand.<sup>23</sup>
+
+Because assuming stifles curiosity and guessing denies the importance of evidence, neither is likely to lead to knowledge. The most reliable approach is to be cautious in asserting that you know something. Be conservative in your level of assertion—whenever you are less than certain, speak about possibilities and probabilities. Say, “I think” or “It seems to me” rather than “I know.” Most important, be honest with yourself and others about your ignorance. To admit you don’t know something shows good sense, restraint, and intellectual honesty. These are not weaknesses but strengths. The admission of ignorance is the essential first step toward knowledge.
+
+Does this mean you should be wishy-washy and hedge everything you say with maybes and perhapses? Does it mean that to be a critical thinker you must forsake convictions? The answer to both questions is an emphatic no! It means only that you should value firm, bold statements so much that you reserve them for occasions when the evidence permits. Similarly, you should value convictions so highly that you embrace them only when you have sufficient knowledge to do so and that you modify them whenever intellectual honesty requires.
+
+### Applications
+
+1. Consider this statement by Greek philosopher Epictetus: “Appearances to the mind are of four kinds. Things are either what they appear to be; or they neither are nor appear to be; or they are and do not appear to be; or they are not and yet appear to be. Rightly to aim in all these cases is the wise man’s task.” Does this reinforce or challenge what you learned in this chapter? Explain.
+2. Read the following comment by Bernard Goldberg, a journalist and author of Bias: “Here’s one of those dirty little secrets journalists are never supposed to reveal to the regular folks out there in the audience: a reporter can find an expert to say anything the reporter wants—anything! Just keep on calling until one of the experts says what you need him to say and tell him you’ll be right down with a camera crew to interview him. If you find an expert who says, ‘You know, I think that flat tax just might work and here’s why . . .’ you thank him, hang up, and find another expert. It’s how journalists sneak their own personal views into stories in the guise of objective news reporting.”<sup>24</sup> What implications does this statement have for the subject of this chapter? Explain your answer.
+3. In each of the following cases, someone believes he or she knows something. In light of what you learned in this chapter, discuss whether the person really does.
+    a. Ted reads in the morning newspaper that a close friend of his has been arrested and charged with burglarizing a number of stores. Ted is shocked. “It’s impossible. The police have made a mistake,” he tells his mother. “Bob and I have been as close as brothers. I just know he’s not guilty.”
+    b. Ralph: Here, Harry, try my antiperspirant. It really stops wetness.
+    Harry: No, thanks. I’m suspicious of antiperspirants. It seems to me that anything designed to block a normal body function may do a lot of harm. I wouldn’t be surprised if it caused cancer.
+    Ralph: Don’t be foolish. I know it doesn’t cause cancer. Products like these are carefully tested before they’re allowed to be sold. If it caused cancer, it would be banned.
+    c. Jane: I just read there’s some evidence that aspirin can prevent heart attacks.
+    Jenny: That’s a lot of nonsense. I know it can’t. My uncle took lots of aspirin and he died of a heart attack last year.
+4. “Man Is Released in Wrong Rape Charges,” “Traditional Idea Debunked,” “Ex-Aide Admits Lying About Lawmakers”—daily newspapers contain numerous stories like these, stories showing how what was “known” a week, a month, or years ago has been found to be false. Find at least three examples of such stories in current or recent newspapers.
+5. “It ain’t what a man doesn’t know that makes him a fool, but what he does know that ain’t so,” wrote Josh Billings, a nineteenth-century American humorist. Recall as many occasions as you can in which your own experience confirmed his observation.
+6. A court case pitting the U.S. government against the American Indian Movement was conducted quietly in South Dakota in late 1982. The government sought to end the Native American group’s twenty-month occupation of public land in the Black Hills National Forest. The group claimed that the area was a holy land to them—their birthplace, the graveyard of their ancestors, and the center of their universe—and therefore should be turned into a permanent, religion-based Native American community. The government maintained that the group had no legal claim to the land. What factors do you think should be considered in a case like this, and what solution would best serve the interests of justice? In answering, be sure to distinguish carefully between what you know and what you assume, guess, or speculate. After answering these questions, check out the most up-to-date version of the story on the Internet. Use the search term “American Indian Movement Black Hills National Forest.”
+7. In recent years there has been much discussion of the insanity plea as a legal defense. Many believe it should be abolished, but many others regard it as an essential part of any reasonable criminal justice system. What is your position? In answering, be sure to distinguish carefully between what you know and what you assume or guess. If your knowledge is very limited, you might want to do some research.
+8. Group discussion exercise: Decide if you know whether each of the following statements is accurate. Discuss your decisions with two or three classmates. Be sure to distinguish knowing from guessing or assuming.
+    a. Most criminals come from lower economic backgrounds.
+    b. African Americans are victims of crimes more often than are whites.
+    c. The U.S. Constitution guarantees every citizen the right to own a handgun.
+    d. Violence in the media is responsible for real-life violence.
+
+### A Difference of Opinion
+
+The following passage summarizes an important difference of opinion. After reading the statement, use the library and/or the Internet and find what knowledgeable people have said about the issue. Be sure to cover the entire range of views. Then assess the strengths and weaknesses of each. If you conclude that one view is entirely correct and the others are mistaken, explain how you reached that conclusion. If, as is more likely, you find that one view is more insightful than the others but that they all make some valid points, construct a view of your own that combines the insights from all views and explain why that view is the most reasonable of all. Present your response in a composition or an oral report, as your instructor specifies.
+
+> Is the threat of global warming real or imaginary? As recently as the 1970s, many scientists were warning of the dangers, not of global warming, but of global cooling. Nevertheless, the most widely publicized alarms today concern global warming. For example, Bob Corell, Senior Fellow of the American Meteorological Society, notes that the earth’s glaciers are receding at an alarming rate and that the ice field surrounding the North Pole has already shrunk dramatically. In all, approximately 105 million acres of ice have melted in the past fifteen years alone. The cause of this change, he believes, is the carbon dioxide created by human activity, notably through the burning of fossil fuels. The result, he predicts, will be a rise in sea level of 3 feet over the next 100 years and the inundation of low-lying coastal areas in every country on earth.<sup>25</sup>
+
+> But not all scientists agree. For example, Richard Lindzen, Professor of Atmospheric Science at Massachusetts Institute of Technology (MIT), maintains that claims of global warming are “junk science” that is being hyped by people with a “vested interest in alarm.” Lindzen argues that even when the data published by such people are accurate, they do not support the conclusions drawn and the dire predictions made. Moreover, he claims that experts who dare to challenge the official view of global warming are being intimidated into silence, notably by threats that their research funding will be cut off and their publications suppressed. In support of this claim, he cites his own experience and that of scientists in several other countries.<sup>26</sup>
+
+> (Compounding the difficulty of this issue is the fact that in 2009 it was learned that some prominent scientists, in email exchanges, seemed to be condoning the manipulation of research data to support the global warming thesis.)
+
+Begin your analysis by conducting a Google search using the term “controversy global warming.”
+
+## How Good Are Your Opinions?
+
+> To me truth is precious. . . . I should rather be right and stand alone than to run with the multitude and be wrong. . . . The holding of the views herein set forth has already won for me the scorn and contempt and ridicule of some of my fellow men. I am looked upon as being odd, strange, peculiar. . . . But truth is truth and though all the world reject it and turn against me, I will cling to truth still.<sup>1</sup>
+
+Stirring words, those. You can envision their author bravely facing legions of reactionaries intent on imposing their narrow dogmas on him. In the background you can almost hear a chorus singing “Stout-Hearted Men.” Stand tall, brave hero. Never give in!
+
+But wait a minute. Just who is the author? And what exactly is the opinion he is valiantly defending? His name is Charles Silvester de Fort. The quotation is from a booklet he wrote in 1931. And the opinion is—are you ready for this?—that the earth is flat.
+
+People have always taken their opinions seriously, but today many people embrace their opinions with extraordinary passion. “I have a right to my opinion” and “Everyone’s entitled to his or her opinion” are common expressions. Question another person’s opinion and you’re likely to hear, “Well, that’s my OPINION.” The unspoken message is “Case closed.”
+
+Is that a reasonable view? Is it inappropriate to challenge the opinions of others? The answer depends on the kind of issue involved. If it is a matter of taste, then the standard is the undemanding one of personal preference. If Agnes finds Reginald handsome and Sally disagrees, there’s really no basis for a meaningful dispute. Ditto if Ralph drools over an orange Camaro with brass wire hubcaps and purple upholstery and Carla is repulsed by it. Some people put catsup on hot dogs, while others prefer mustard or relish, and perhaps at this very moment someone, somewhere, is slathering a hot dog with mayonnaise or blueberries or pureed brussels sprouts. So what? Vive la différence!
+
+However, consider this very different use of the term opinion: A newspaper reports that the Supreme Court has delivered its opinion in a controversial case. Obviously, the justices did not state their personal preferences, their mere likes and dislikes. They stated their considered judgment, painstakingly arrived at after thorough inquiry and deliberation.
+
+In the context of critical thinking, the term opinion refers to expressions of judgment rather than to expressions of taste. In some cases, unfortunately, it is not clear whether someone is expressing taste or judg ment. A friend might say to you, as you leave a movie theater, “That was a wonderful film,” which could mean “I liked it” or “It meets a very high standard of cinematography.” If she is merely saying she liked it, and you didn’t, the disagreement would be over personal taste, which is pointless to debate. However, if she is making an aesthetic judgment, you could reasonably challenge her, citing specific film standards the movie failed to meet.
+
+Is everyone entitled to his or her opinion? In a free country this is not only permitted but guaranteed. In Great Britain, for example, there is still a Flat Earth Society. As the name implies, the members of this organization believe that the earth is not spherical but flat. In this country, too, each of us is free to take as bizarre a position as we please about any matter we choose. When the telephone operator announces, “That’ll be ninety-five cents for the first three minutes,” you may respond, “No, it won’t—it’ll be twenty-eight cents.” When the service station attendant notifies you, “Your oil is down a quart,” you may reply, “Wrong—it’s up three.”
+
+Being free to hold an opinion and express it does not, of course, guarantee favorable consequences. The operator may hang up on you, and the service station attendant may respond unpleasantly.
+
+Acting on our opinions carries even less assurance. Consider the case of the California couple who took their eleven-year-old diabetic son to a faith healer. Secure in their opinion that the man had cured the boy, they threw away his insulin. Three days later, the boy died. The parents remained unshaken in their belief, expressing the opinion that God would raise the boy from the dead. The police arrested them, charging them with manslaughter.<sup>2</sup> The law in such matters is both clear and reasonable: We are free to act on our opinions only as long as, in doing so, we do not harm others.
+
+### Opinions Can Be Mistaken
+
+We might be tempted to conclude that if we are free to have an opinion, it must be correct. That, however, is not the case. Free societies are based on the wise observation that people have an inalienable right to think their own thoughts and make their own choices. But this fact in no way suggests that the thoughts they think and the choices they make will be reasonable. It is a fundamental principle of critical thinking that ideas are seldom of equal quality. Solutions to problems vary from the practical to the impractical, beliefs from the well founded to the ill founded, arguments from the logical to the illogical, and opinions from the informed to the uninformed. Critical thinking serves to separate the more worthy from the less worthy and, ultimately, to identify the best.
+
+Evidence that opinions can be mistaken is all around us. The weekend drinker often has the opinion that, as long as he doesn’t drink during the week, he is not an alcoholic. The person who continues driving her gas guzzler with the needle on Empty may have the opinion that the problem being signaled can wait for another fifty miles. The student who quits school at age sixteen may have the opinion that an early entry into the job market ultimately improves job security. Yet, however deeply and sincerely such opinions are held, they are most likely wrong.
+
+Research shows that people can be mistaken even when they are making a special effort to judge objectively. Sometimes their errors are caused by considerations so subtle that they are unaware of them. For example, before Taster’s Choice coffee was introduced, it was tested and sampled with three different labels—brown, yellow, and red. People who sampled the brown-labeled coffee reported that it was too strong and kept them awake at night. Those who sampled the yellow-labeled coffee found it weak and watery. Those who sampled the red-labeled coffee judged it to be just the right strength and delicious. All this even though the coffee in each jar was exactly the same. The people had been subconsciously influenced by the color of the label. <sup>3</sup>
+
+### Opinions on Moral Issues
+
+This popular perspective may seem eminently sensible and broadminded, but it is utterly shallow. Almost every day, situations arise that require reasonable people to violate it. Have you ever heard anyone claim that burglary, spousal abuse, or rape is morally acceptable for those who believe it is? When someone is convicted of child molesting, do citizens parade in front of the courthouse with banners proclaiming “Pedophilia may be wrong for us, but it was right for him”? If your instructor discovers you cheating on an examination, will she accept your explanation that you believe the end justifies the means? If a Breathalyzer test reveals that your classmate was driving with a blood alcohol level higher than his grade point average, will the police officer commend him for living by his moral conviction?
+
+Virtually every professional organization and every corporation has a code of ethics that specifies the behaviors that are required or forbidden. Every country has a body of laws with prescribed penalties for violators. There are even international laws that govern affairs among countries. All these codes and legal systems don’t appear out of thin air. They are the products of moral judgment, the same mental activity individuals use in deciding everyday issues of right and wrong. And they are subject to the same limitations and imperfections. Opinions about moral issues, like other opinions, may be correct or incorrect.
+
+Are there criteria we can use to increase the chance that our moral judgments will be correct? Definitely. The most important criteria are obligations, ideals, and consequences.
+
+* Obligations: Obligations are restrictions on behavior, demands that we do or avoid doing something. The most obvious kinds of obligations are formal agreements such as contracts. Others include professional and business obligations, and obligations of friendship and citizenship. When two or more obligations conflict, the most important one should take precedence.
+* Ideals: In the general sense, ideals are notions of excellence, goals that bring greater harmony within ourselves and with others. In ethics they are also specific concepts that help us maintain respect for persons. Some noteworthy examples of ideals are honesty, integrity, justice, and fairness. When two or more ideals conflict in a given situation, the most important one should be given precedence.
+* Consequences: Consequences are the beneficial and/or harmful results of an action that affect both the person performing that action and other people. Any examination of consequences should consider the various kinds: personal and societal; physical and emotional; immediate and eventual; intended and unintended; obvious and subtle; and possible, probable, and certain. Actions that achieve beneficial consequences should be preferred over those that do harm. Whenever the consequences are mixed (some beneficial, others harmful), the preferred action is the one that achieves the greater good or the lesser evil.
+
+### Even Experts Can Be Wrong
+
+History records numerous occasions when the expert opinion has been the wrong opinion. In ancient times the standard medical opinion was that headaches were caused by demons inside the skull. The accepted treatment ranged from opening the skull and releasing the demons to giving medicines derived from cow’s brain and goat dung. (Some Native American tribes preferred beaver testicles.)<sup>4</sup>
+
+When the idea of inoculating people against diseases such as smallpox first arrived in the colonies in the early 1700s, most authorities regarded it as nonsense. Among them were Benjamin Franklin and a number of the men who later founded Harvard Medical School. Against the authorities stood a relatively unknown man who didn’t even have a medical degree, Zabdiel Boylston. Whose opinion was proved right? Not the experts’ but Zabdiel Boylston’s.<sup>5</sup>
+
+In 1890 a Nobel Prize–winning bacteriologist, Dr. Robert Koch, reported that he had found a substance that would cure tuberculosis. When it was injected into patients, though, it was found to cause further illness and even death.
+
+In 1904 psychologist G. Stanley Hall expressed his professional opinion that when women engage in strenuous mental activity, particularly with men, they experience a loss of mammary function and interest in motherhood, as well as decreased fertility. If they subsequently have children, the children will tend to be sickly.<sup>6</sup> Today this idea is laughable.
+
+Between 1919 and 1922 the Metropolitan Museum of Art in New York City bought seventeen gold vessels that experts determined were authentic treasures from a 3,500-year-old Egyptian tomb. In 1982 the vessels were discovered to be twentieth-century fakes.<sup>7</sup>
+
+In 1928 a drug called thorotrast was developed and used to outline certain organs of the body so that clearer X-rays could be taken. Nineteen years later, doctors learned that even small doses of the drug caused cancer.
+
+In 1959 a sedative called thalidomide was placed on the market. Many physicians prescribed it for pregnant women. Then, when a large number of babies were born deformed, medical authorities realized that thalidomide was to blame.
+
+In 1959 a sedative called thalidomide was placed on the market. Many physicians prescribed it for pregnant women. Then, when a large number of babies were born deformed, medical authorities realized that thalidomide was to blame.
+
+In 1973, using refined radar mapping techniques, scientists decided that their earlier claims about the surface of Venus were wrong. It was not smooth, as they had thought, but pockmarked with craters.<sup>8</sup>
+
+In the 1980s and 1990s one of the hottest topics in the publishing and seminar industries was co-dependency. Anyone related to an alcoholic or drug addict was considered to be a contributor to the problem, chiefly by unconsciously encouraging the person’s habit or enabling the person to indulge it. Soon the idea of co-dependency became the diagnosis of choice for any situation characterized by out-of-control behavior. Co-dependents were urged to buy books, attend seminars, and join their troubled family member in counseling. Then one curious researcher, Edith Gomberg, examined the scientific research base on which the movement was founded. She found . . . zip, nada, nothing. In her words, “There are no surveys, no clinical research, no evaluations; only descriptive, impressionistic statements.”<sup>9</sup>
+
+For most of the twentieth century, the universally accepted scientific opinion was that stomach ulcers are caused by excess stomach acid generated by stress. Then Barry Marshall demonstrated that ulcers are caused by bacteria and can be cured with antibiotics.
+
+Remember the brontosaurus with his head stretching to the treetops in Jurassic Park? That scene reflected the traditional scientific opinion that the big dinosaurs dined on leaves thirty or more feet off the ground. In 1999, however, Michael Parrish, a northern Illinois researcher, experimented with a computer model of the neck bones of large dinosaurs and discovered that they could never have lifted their heads above the level of their bodies. If they had, their neck vertebrae would have collapsed. They couldn’t have stood on their hind legs, either, because the demands on their blood pressure would have been excessive.<sup>10</sup>
+
+For years physicians told us that fiber lowers cholesterol and protects against colon cancer. Eventually, medical research established that it doesn’t lower cholesterol. Then researchers demonstrated that it doesn’t protect against colon cancer.<sup>11</sup>
+
+To this day, many experts are convinced that the cause of crime is a bad social environment and that the solution is to pour millions of dollars into poor neighborhoods for a variety of social programs. Other experts are equally convinced that the cause of crime is an emotional disorder that can be cured only by psychological counseling. But a leading researcher, Stanton Samenow, disputes both views. Samenow argues that “bad neighborhoods, inadequate parents, television, schools, drugs, or unemployment” are not the cause of crime—criminals themselves are. They break the law not because conditions force them to but because they choose to, and they choose to because they consider themselves special and therefore above the law. In Samenow’s view, the key to criminals’ rehabilitation is for them to accept responsibility for their behavior.<sup>12</sup> Is Samenow correct? Time will tell.
+
+It is impossible to know what expert opinions of our time will be overturned by researchers in the future. But we can be sure that some will be. And they may well be views that today seem unassailable.
+
+### Kinds of Errors
+
+Opinion can be corrupted by any one of four broad kinds of errors. These classifications, with examples added for clarification, are the following:
+1. Errors or tendencies to error common among all people by virtue of their being human (for example, the tendency to perceive selectively or rush to judgment or oversimplify complex realities)
+2. Errors or tendencies to error associated with one’s individual habits of mind or personal attitudes, beliefs, or theories (for example, the habit of thinking the worst of members of a race or religion against which one harbors prejudice)
+3. Errors that come from human communication and the limitations of language (for example, the practice of expressing a thought or feeling inadequately and leading others to form a mistaken impression)
+4. Errors in the general fashion of an age (for example, the tendency in our grandparents’ day to accept authority unquestioningly or the tendency in ours to recognize no authority but oneself)
+
+Some people, of course, are more prone to errors than others. English philosopher John Locke observed that these people fall into three groups:
+
+> Those who seldom reason at all, but think and act as those around them do—parents, neighbors, the clergy, or anyone else they admire and respect. Such people want to avoid the difficulty that accompanies thinking for themselves.
+> Those who are determined to let passion rather than reason govern their lives. Those people are influenced only by reasoning that supports their prejudices.
+> Those who sincerely follow reason, but lack sound, overall good sense, and so do not look at all sides of an issue. They tend to talk with one type of person, read one type of book, and so are exposed to only one viewpoint.<sup>13</sup>
+
+To Locke’s list we should add one more type: those who never bother to reexamine an opinion once it has been formed. These people are often the most error prone of all, for they forfeit all opportunity to correct mistaken opinions when new evidence arises.
+
+### Informed Versus Uninformed Opinion
+
+If experts can, like the rest of us, be wrong, why are their opinions more highly valued than those of nonexperts? In light of the examples we have considered, we might conclude that it is a waste of time to consult the experts. Let’s look at some situations and see if this conclusion is reasonable.
+
+What are the effects of hashish on those who smoke it? We could ask the opinion of a smoker or take a poll of a large number of smokers. But it would be more prudent to obtain the opinion of one or more trained observers, research scientists who have conducted studies of the effects of hashish smoking. (At least one such group, a team of army doctors, has found that heavy use of hashish leads to severe lung damage. Also, if the smoker is predisposed to schizophrenia, hashish can cause long-lasting episodes of that disorder.<sup>14</sup>)
+
+A giant quasar is positioned on what may be the edge of our universe, 10 billion light-years away from us.<sup>15</sup> (To calculate the distance in miles, just multiply the speed of light, 186,000 miles per second, by the number of seconds in a day, 86,400; next multiply that answer by the number of days in a year, 365; finally, multiply that answer by 10,000,000,000.) The pinpoint of light viewed by astronomers has been streaking through space for all those years and has just reached us. The quasar may very well have ceased to exist millions and millions of years ago. Did it? It may take millions and millions of years before we can know. If we wanted to find out more about this quasar or about quasars in general, we could stop someone on a street corner and ask about it, and that person would be free to offer an opinion. But it would be more sensible to ask an astronomer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
