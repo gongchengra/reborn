@@ -14,3 +14,7 @@ _book
 *.epub
 *.mobi
 *.pdf
+*.toc
+*.log
+*.aux
+*.gz
